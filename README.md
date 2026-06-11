@@ -1,2 +1,2 @@
 1  New_repo
-2  updated description
+2  exited readme
